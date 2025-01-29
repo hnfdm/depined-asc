@@ -19,8 +19,8 @@ const CONSTANTS = {
     PROXY_PATH: "./proxies.txt", // Path for the proxy list
   },
   DELAYS: {
-    MIN: 300,
-    MAX: 2700,
+    MIN: 15000,
+    MAX: 30000,
   },
   MESSAGES: {
     ERRORS: {
