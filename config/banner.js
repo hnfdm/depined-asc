@@ -14,7 +14,7 @@ function displayBanner() {
     `${colors.bannerBorder}===============================================${colors.reset}`
   );
   console.log(
-    `${colors.bannerLinks}GitHub  : https://codeberg.org/zamzasalim${colors.reset}`
+    `${colors.bannerLinks}GitHub  : https://github/zamzasalim${colors.reset}`
   );
   console.log(
     `${colors.bannerLinks}Telegram: https://t.me/airdropasc${colors.reset}`
