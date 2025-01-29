@@ -1,6 +1,6 @@
-## Depined Auto Connect
+## DePINed Auto Connect
 
-A Node.js application to automatically maintain connections with the Depined platform and track earnings.
+By automating connections with the platform, this system ensures continuous tracking of activity and real-time updates on earnings, improving efficiency and minimizing downtime.
 
 ### Features
 
